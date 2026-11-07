@@ -17,11 +17,11 @@ Use web search and page fetching. Cover a spread of these, plus anything they li
 |---|---|
 | General / rock | climbing.com, ukclimbing.com/news, gripped.com, planetmountain.com, eveningsends.com, 8a.nu (news) |
 | Alpine / big mountains | alpinist.com, explorersweb.com, planetmountain.com (alpinism) |
-| Competition | ifsc-climbing.org (results & news), national federation sites, Olympic climbing coverage |
+| Competition | worldclimbing.com (formerly IFSC; results & news), national federation sites, Olympic climbing coverage |
 | Gear / industry / access | Access Fund, BMC / British Climbing, brand press releases (only if genuinely newsworthy) |
 
 Also run a few open searches such as: `climbing first ascent this week`,
-`bouldering send news`, `IFSC results`, `climbing news today`, `mountaineering expedition news`.
+`bouldering send news`, `World Climbing results`, `climbing news today`, `mountaineering expedition news`.
 
 Things that make good stories: first ascents and hard repeats (9a+/V15+ and notable
 flashes/onsights), first female/youngest/fastest ascents, comp results and upsets,
