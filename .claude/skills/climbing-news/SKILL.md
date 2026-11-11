@@ -1,12 +1,19 @@
 ---
 name: climbing-news
-description: Scan climbing news sources for the last ~24 hours and pitch a shortlist of story ideas for a climbing-news Instagram account, each with sources, an angle, a draft caption, hashtags and visual ideas. Use when asked for "climbing news", "story ideas for the Instagram page", or by the overnight scheduled task.
+description: Scan rock-climbing news sources (no mountaineering) for the last ~24 hours and pitch a shortlist of story ideas for a climbing-news Instagram account, each with sources, an angle, a draft caption, hashtags and visual ideas, plus unconfirmed leads biased towards UK bouldering. Use when asked for "climbing news", "story ideas for the Instagram page", or by the overnight scheduled task.
 ---
 
 # Climbing news → Instagram story pitches
 
 Goal: produce a morning briefing of **5–8 candidate stories** that a person can
-quickly pick from and turn into Instagram posts. You pitch; a human decides and posts.
+quickly pick from and turn into Instagram posts, plus a short list of unconfirmed
+**leads** worth digging into.
+
+**Scope: rock climbing only** — bouldering, sport, trad and competition climbing.
+Leave out mountaineering, alpinism, high-altitude expeditions, ski-mountaineering
+and ice/mixed climbing, even when they are big news.
+
+You pitch; a human decides and posts.
 Never post to Instagram or any public channel yourself.
 
 ## 1. Gather (last 24–36 hours, unless told otherwise)
@@ -15,17 +22,16 @@ Use web search and page fetching. Cover a spread of these, plus anything they li
 
 | Area | Sources |
 |---|---|
-| General / rock | climbing.com, ukclimbing.com/news, gripped.com, planetmountain.com, eveningsends.com, 8a.nu (news) |
-| Alpine / big mountains | alpinist.com, explorersweb.com, planetmountain.com (alpinism) |
+| General / rock | climbing.com, ukclimbing.com/news, gripped.com, planetmountain.com (rock sections only), eveningsends.com, 8a.nu (news) |
 | Competition | worldclimbing.com (formerly IFSC; results & news), national federation sites, Olympic climbing coverage |
 | Gear / industry / access | Access Fund, BMC / British Climbing, brand press releases (only if genuinely newsworthy) |
 
 Also run a few open searches such as: `climbing first ascent this week`,
-`bouldering send news`, `World Climbing results`, `climbing news today`, `mountaineering expedition news`.
+`bouldering send news`, `World Climbing results`, `climbing news today`, `UK bouldering news`.
 
 Things that make good stories: first ascents and hard repeats (9a+/V15+ and notable
 flashes/onsights), first female/youngest/fastest ascents, comp results and upsets,
-expedition summits or rescues, access/crag closures, records, big film or book
+crag rescues or incidents, access/crag closures, records, big film or book
 releases, notable gear recalls, human-interest pieces.
 
 ## 2. Verify and filter
@@ -63,8 +69,48 @@ Start with a one-line summary ("7 stories, top pick: …"), then for each story:
 **Sources:** bullet list of links with publish dates.
 ```
 
-End with a short "Also noted (not pitched)" list of minor items, and "Coming up"
-(comps or events in the next 7 days worth preparing for).
+After the stories, add these sections in order:
+
+**Leads (unconfirmed — worth a look)** — 4–8 items. See section 4a.
+
+**Also noted (not pitched)** — short list of minor items.
+
+**Coming up** — comps or events in the next 7 days worth preparing for.
+
+## 4a. Leads
+
+Leads are *not* stories: they are hints that something might be happening, or
+places where more detail could turn up, so the reader can follow up themselves.
+They don't need two sources and don't get a caption — but never present a lead
+as fact, and keep the same rules on rumours about private lives.
+
+**Bias towards bouldering, and especially UK bouldering.** Aim for at least half
+the leads to be UK bouldering (Peak District, Yorkshire, Lake District, North Wales,
+Northumberland, Scotland, Dartmoor, etc.); the rest can be bouldering elsewhere or
+other rock-climbing hints.
+
+Where to look for leads:
+
+- **Logbooks and scorecards:** UKC logbooks (recent hard ascents / new problems),
+  8a.nu and Vertical-Life scorecards, 27crags — a fresh tick on a hard or new
+  problem often appears here before any article.
+- **Forums and community:** UKBouldering.com (new problems, conditions, access
+  threads), UKC forums, r/bouldering and r/climbing.
+- **Climbers' own channels:** public Instagram / YouTube posts from strong UK
+  boulderers and setters — project teasers, "back on it" posts, new-problem videos.
+- **Guidebooks and developers:** Rockfax, Vertebrate, Ground Up and local
+  guidebook updates / new-problem pages; regional bouldering development blogs.
+- **Access and conditions:** British Climbing (BMC) Regional Access Database,
+  landowner or national-park notices that might become a story.
+- **UK comps and events:** British Bouldering Championships, CWIF, regional
+  bouldering leagues and wall-hosted comps (results pages, wall social accounts).
+
+Format each lead as one line or two:
+
+```
+- **<Short description>** (UK bouldering | bouldering | rock) — what was seen and
+  why it might be a story. Where to check: <link(s)>. What would confirm it: <…>.
+```
 
 ## 5. Delivery
 
